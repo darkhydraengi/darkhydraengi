@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @darkhydraengi
+- 👀 I’m interested in electronics and aerospace based projects
+- 🌱 I’m currently learning about ham radio liscencing and satelite communications
+- 💞️ I’m looking to collaborate on my new cubesat project, Prometheus Alpha!
+- 📫 How to reach me: srihari.kutti@gmail.com
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: I love to ski!
